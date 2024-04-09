@@ -9,7 +9,7 @@ We have choose 6 European countries and trying to see how emergence and concentr
 
 1. Data Exploration: Dive into Novel COVID19 API to find change of variants over time in six different European Countries.
 
-2. Analysis: Identify top 3 variants in differnt countries and their detections
+2. Analysis: Identification of most dominant variants in countries by number and over years.
 
 3. 
 
@@ -19,9 +19,7 @@ We have choose 6 European countries and trying to see how emergence and concentr
 **Team Members:**
 
   Miranda Melton
-  
-  Payal Bansal
-  
+
   Zachary Pederson
 
 **Ethical Considerations**
@@ -50,4 +48,22 @@ Project Documentation: README.md: For project documentation and instructions.
 **Results**
 
 **Conclusions**
+
+1. The study of variants helps in developing vaccine, controlling the disease and developing health strategies.
+
+2. As the Delta variant imarges, the cases increased to a new number beacuse of the increased transmissibility compared to earlier variants.
+
+3. 
+
+**Implications/Limitations**
+
+There are several limitations associated with this type of data. Understanding these limitations helps contextualize the findings and informs interpretation and decision-making
+
+1. Sampling Bias : The data may be subject to sampling bias, as genomic sequencing efforts vary widely between countries and regions. Countries with more robust sequencing capabilities may detect and report more variants compared to those with limited resources
+
+2. Selection Bias in Data Representation : The data may overrepresent certain populations or demographics, particularly if sequencing efforts target specific groups or regions. This can skew the observed variant distribution
+
+3. Incomplete Sequencing Coverage : Not all COVID-19 cases undergo genomic sequencing, leading to underrepresentation of certain variants in the data. This can result in an incomplete picture of variant prevalence and distribution.
+
+
 
