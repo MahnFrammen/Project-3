@@ -17,6 +17,7 @@ We have choose 6 European countries and trying to see how emergence and concentr
  
 
 **Team Members:**
+
   	Miranda Melton
    
   	Payal Bansal
