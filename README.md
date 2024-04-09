@@ -20,6 +20,8 @@ We have choose 6 European countries and trying to see how emergence and concentr
 
   Miranda Melton
 
+  Payal Bansal
+
   Zachary Pederson
 
 **Ethical Considerations**
