@@ -29,7 +29,6 @@ We have choose 6 European countries and trying to see how emergence and concentr
 **Data Source**
 
 Covid19 Novel API: We have used Open source API data from (https://disease.sh/docs/#/COVID-19%3A%20JHUCSSE/get_v3_covid_19_historical_all)
-
 We have selected COVID-19 Variants data for 6 different European Countries(France, Germany, Ireland, Italy,Norway and Sweden) using (https://disease.sh/v3/covid-19/variants/<country_name>/
 
 
@@ -38,16 +37,24 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 **Technologies Used**
 
 1. Programming Language: Python
-2. Libraries and Modules: Requests: For making HTTP requests to the Covid19 Novel API, Pandas: For data manipulation and analysis, NumPy: For numerical operations and array manipulations, JSON: Part of the Python standard library, used for handling JSON data, PPrint: Part of the Python standard library, used for pretty-printing data structures.
-API: Covid19 Novel API(API for finding differnt types of data related to covid across globe)
-Integrated Development Environment (IDE): Jupyter Notebook: Used for writing, testing, and debugging the Python script.
-Version Control: Git: Used for version control and collaborative development.
-Project Documentation: README.md: For project documentation and instructions.
+2. Libraries and Modules: 
+	Requests: For making HTTP requests to the Covid19 Novel API, 
+	Pandas: For data manipulation and analysis, 
+	NumPy: For numerical operations and array manipulations, 
+	JSON: Part of the Python standard library, used for handling JSON data, 
+	PPrint: Part of the Python standard library, used for pretty-printing data structures.
+3. API: Covid19 Novel API(API for finding differnt types of data related to covid across globe)
+4. Integrated Development Environment (IDE): Jupyter Notebook: Used for writing, testing, and debugging the Python script.
+5. Version Control: Git: Used for version control and collaborative development.
+6. Project Documentation: README.md: For project documentation and instructions.
 
 
 **Structures**
 
 **Results**
+Top Variants across multiple Countries
+
+![image](https://github.com/MahnFrammen/Project-3/assets/148804724/70875d3a-d966-4456-a206-e02408bf2c06)
 
 **Conclusions**
 
