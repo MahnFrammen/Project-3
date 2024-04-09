@@ -19,9 +19,7 @@ We have choose 6 European countries and trying to see how emergence and concentr
 **Team Members:**
 
   Miranda Melton
-
   Payal Bansal
-
   Zachary Pederson
 
 **Ethical Considerations**
@@ -29,6 +27,7 @@ We have choose 6 European countries and trying to see how emergence and concentr
 **Data Source**
 
 Covid19 Novel API: We have used Open source API data from (https://disease.sh/docs/#/COVID-19%3A%20JHUCSSE/get_v3_covid_19_historical_all)
+
 We have selected COVID-19 Variants data for 6 different European Countries(France, Germany, Ireland, Italy,Norway and Sweden) using (https://disease.sh/v3/covid-19/variants/<country_name>/
 
 
