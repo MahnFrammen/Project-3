@@ -17,15 +17,13 @@ We have choose 6 European countries and trying to see how emergence and concentr
  
 
 **Team Members:**
-
-  Miranda Melton
-  Payal Bansal
-  Zachary Pederson
+  	Miranda Melton
+  	Payal Bansal
+  	Zachary Pederson
 
 **Ethical Considerations**
 
 **Data Source**
-
 Covid19 Novel API: We have used Open source API data from (https://disease.sh/docs/#/COVID-19%3A%20JHUCSSE/get_v3_covid_19_historical_all)
 
 We have selected COVID-19 Variants data for 6 different European Countries(France, Germany, Ireland, Italy,Norway and Sweden) using (https://disease.sh/v3/covid-19/variants/<country_name>/
@@ -56,7 +54,6 @@ Top Variants across multiple Countries
 ![image](https://github.com/MahnFrammen/Project-3/assets/148804724/70875d3a-d966-4456-a206-e02408bf2c06)
 
 **Conclusions**
-
 1. The study of variants helps in developing vaccine, controlling the disease and developing health strategies.
 
 2. As the Delta variant imarges, the cases increased to a new number beacuse of the increased transmissibility compared to earlier variants.
@@ -64,7 +61,6 @@ Top Variants across multiple Countries
 3. 
 
 **Implications/Limitations**
-
 There are several limitations associated with this type of data. Understanding these limitations helps contextualize the findings and informs interpretation and decision-making
 
 1. Sampling Bias : The data may be subject to sampling bias, as genomic sequencing efforts vary widely between countries and regions. Countries with more robust sequencing capabilities may detect and report more variants compared to those with limited resources
