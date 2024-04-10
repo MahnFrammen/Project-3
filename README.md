@@ -54,7 +54,7 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 
 **Results**
 
-** 1. Top Variants across multiple Countries **
+1. Top Variants across multiple Countries
 
 ![image](https://github.com/MahnFrammen/Project-3/assets/148804724/70875d3a-d966-4456-a206-e02408bf2c06)
 
