@@ -55,7 +55,7 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
   	- Plotly and Ployly.Express: Library used to create visualizations
    	- Ipywidgets: Interactive HTML widgets for Jupyter Notebook and the IPython kernal
    	- Math: Needed this to do the Log10 of each value
-   	- sns:  Used to visualize distributions
+   	- Seaborn:  Used to visualize distributions
 3. API: Covid19 Novel API(API for finding differnt types of data related to covid across globe)
 5. Integrated Development Environment (IDE): Jupyter Notebook: Used for writing, testing, and debugging the Python script.
 6. Version Control: Git: Used for version control and collaborative development.
