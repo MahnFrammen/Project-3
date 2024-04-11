@@ -47,7 +47,7 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 7. Database: PostGre SQL 
 8. Project Documentation: README.md: For project documentation and instructions.
 
-**Data Analysis**
+**Data Cleaning Process**
 
 1. Take the API links and turn the JSON data into individual JSON files
 2. Take the JSON files and convert them to CSV file to be saved in a separate folder
@@ -56,9 +56,6 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 5. Rename the Columns for Improved Readibility
 6. Export the merged DataFrame as a CSV file
 7. Upload the merged CSV data into a database management system of your choice 
-
-
-**Structures**
 
 **Results**
 
@@ -70,7 +67,6 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 ![image](https://github.com/MahnFrammen/Project-3/blob/dfc25d49fb4394a99fddf301e4557e8b3fb19179/newplot%20(5).png)
 
 
-
 **Conclusions**
 
 1. The study of variants helps in developing vaccine, controlling the disease and developing health strategies.
@@ -78,9 +74,6 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 2. As the Delta variant imarges, the cases increased to a new number beacuse of the increased transmissibility compared to earlier variants.
 3. For the years 2020 and 2021, the most prominent variant was variant B.1.617.2 or “Delta” variant.
 4. In 2022 and 2023, the most prominent variants were BA.2 and BA.5 (Omicron sub-variants)
-
-
-
 
 
 **Implications/Limitations**
