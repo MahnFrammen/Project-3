@@ -72,6 +72,7 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 ![image](https://github.com/MahnFrammen/Project-3/assets/148804724/70875d3a-d966-4456-a206-e02408bf2c06)
 
 2. Dectections of Variants by Year (2020-2023)
+![image](newplot (5).png)
 
 
 
