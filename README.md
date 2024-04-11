@@ -35,19 +35,32 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 
 **Data Analysis**
 
+1. Take the API links and turn the JSON data into individual JSON files
+2. Take the JSON files and convert them to CSV file to be saved in a separate folder
+3. Turn the CSV files into DataFrames
+4. Merge the DataFrames together
+5. Rename the Columns for Improved Readibility
+6. Export the merged DataFrame as a CSV file
+7. Upload the merged CSV data into a database management system of your choice 
+
 **Technologies Used**
 
 1. Programming Language: Python
 2. Libraries and Modules: 
-	Requests: For making HTTP requests to the Covid19 Novel API, 
-	Pandas: For data manipulation and analysis, 
-	NumPy: For numerical operations and array manipulations, 
-	JSON: Part of the Python standard library, used for handling JSON data, 
-	PPrint: Part of the Python standard library, used for pretty-printing data structures.
+	- Requests: For making HTTP requests to the Covid19 Novel API
+	- Pandas: For data manipulation and analysis 
+	- NumPy: For numerical operations and array manipulations 
+	- JSON: Part of the Python standard library, used for handling JSON data 
+	- PPrint: Part of the Python standard library, used for pretty-printing data structures
+  	- Plotly and Ployly.Express: Library used to create visualizations
+   	- Ipywidgets: Interactive HTML widgets for Jupyter Notebook and the IPython kernal
+   	- Math: Needed this to do the Log10 of each value
+   	- sns:  Used to visualize distributions
 3. API: Covid19 Novel API(API for finding differnt types of data related to covid across globe)
-4. Integrated Development Environment (IDE): Jupyter Notebook: Used for writing, testing, and debugging the Python script.
-5. Version Control: Git: Used for version control and collaborative development.
-6. Project Documentation: README.md: For project documentation and instructions.
+5. Integrated Development Environment (IDE): Jupyter Notebook: Used for writing, testing, and debugging the Python script.
+6. Version Control: Git: Used for version control and collaborative development.
+7. Database: PostGre SQL 
+8. Project Documentation: README.md: For project documentation and instructions.
 
 
 **Structures**
@@ -58,13 +71,19 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 
 ![image](https://github.com/MahnFrammen/Project-3/assets/148804724/70875d3a-d966-4456-a206-e02408bf2c06)
 
+2. Dectections of Variants by Year (2020-2023)
+
+
+
 **Conclusions**
 
 1. The study of variants helps in developing vaccine, controlling the disease and developing health strategies.
 
 2. As the Delta variant imarges, the cases increased to a new number beacuse of the increased transmissibility compared to earlier variants.
 
-3. 
+
+
+
 
 **Implications/Limitations**
 
