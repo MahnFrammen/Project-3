@@ -32,17 +32,6 @@ Covid19 Novel API: We have used Open source API data from (https://disease.sh/do
 
 We have selected COVID-19 Variants data for 6 different European Countries(France, Germany, Ireland, Italy,Norway and Sweden) using (https://disease.sh/v3/covid-19/variants/<country_name>/
 
-
-**Data Analysis**
-
-1. Take the API links and turn the JSON data into individual JSON files
-2. Take the JSON files and convert them to CSV file to be saved in a separate folder
-3. Turn the CSV files into DataFrames
-4. Merge the DataFrames together
-5. Rename the Columns for Improved Readibility
-6. Export the merged DataFrame as a CSV file
-7. Upload the merged CSV data into a database management system of your choice 
-
 **Technologies Used**
 
 1. Programming Language: Python
@@ -61,6 +50,16 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 6. Version Control: Git: Used for version control and collaborative development.
 7. Database: PostGre SQL 
 8. Project Documentation: README.md: For project documentation and instructions.
+
+**Data Analysis**
+
+1. Take the API links and turn the JSON data into individual JSON files
+2. Take the JSON files and convert them to CSV file to be saved in a separate folder
+3. Turn the CSV files into DataFrames
+4. Merge the DataFrames together
+5. Rename the Columns for Improved Readibility
+6. Export the merged DataFrame as a CSV file
+7. Upload the merged CSV data into a database management system of your choice 
 
 
 **Structures**
