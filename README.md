@@ -8,12 +8,8 @@ We have choose 6 European countries and trying to see how emergence and concentr
 **Key Objectives:**
 
 1. Data Exploration: Dive into Novel COVID19 API to find change of variants over time in six different European Countries.
-
 2. Analysis: Identification of most dominant variants in countries by number and over years.
-
-3. 
-
-4. Impact and need of Variants: With Study of variants, it helps in developing vaccinations, controlling the disesase, and making stratgies to overcome to affect of disease.
+3. Impact and need of Variants: With Study of variants, it helps in developing vaccinations, controlling the disesase, and making stratgies to overcome to affect of disease.
  
 
 **Team Members:**
