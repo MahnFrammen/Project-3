@@ -71,8 +71,8 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 
 ![image](https://github.com/MahnFrammen/Project-3/assets/148804724/70875d3a-d966-4456-a206-e02408bf2c06)
 
-2. Dectections of Variants by Year (2020-2023)
-![image](newplot (5).png)
+2. Dectections of Variants by Year (2020-2023) - See Jupyter Notebook file “Interactive Bar Chart” for full functionality 
+![image](https://github.com/MahnFrammen/Project-3/blob/dfc25d49fb4394a99fddf301e4557e8b3fb19179/newplot%20(5).png)
 
 
 
@@ -81,6 +81,8 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 1. The study of variants helps in developing vaccine, controlling the disease and developing health strategies.
 
 2. As the Delta variant imarges, the cases increased to a new number beacuse of the increased transmissibility compared to earlier variants.
+3. For the years 2020 and 2021, the most prominent variant was variant B.1.617.2 or “Delta” variant.
+4. In 2022 and 2023, the most prominent variants were BA.2 and BA.5 (Omicron sub-variants)
 
 
 
