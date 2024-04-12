@@ -66,6 +66,12 @@ We have selected COVID-19 Variants data for 6 different European Countries(Franc
 2. Dectections of Variants by Year (2020-2023) - See Jupyter Notebook file “Interactive Bar Chart” for full functionality 
 ![image](https://github.com/MahnFrammen/Project-3/blob/dfc25d49fb4394a99fddf301e4557e8b3fb19179/newplot%20(5).png)
 
+3. Frequency of Known Variants
+![1](https://github.com/MahnFrammen/Project-3/assets/71048879/077c9d6d-0191-40a0-9ab5-9f8a38eb31bb)
+
+4. Total Reported Cases
+![2](https://github.com/MahnFrammen/Project-3/assets/71048879/b1c7f1e5-5dad-4aa1-9e65-997197eece03)
+
 
 **Conclusions**
 
